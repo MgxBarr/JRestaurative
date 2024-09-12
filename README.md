@@ -2,6 +2,7 @@
 ## Projet Web P2 S2
 
 Pages web développées pour le site de l'institut français de la justice restaurative. 
+
 L'une dédiée aux particuliers pour qu'ils puissent trouver les informations essentielles sur la justice restaurative
 et avoir les coordonnéese de la personne dédiée sur leur département. Pour cela, il y a une carte de la France cliquable et divisée selon les départements,
 une barre de recherche et un outil de filtrage selon différentes mesures. Lors d'un clic sur la carte ou d'une recherche dans la barre dédiée, les informations 
