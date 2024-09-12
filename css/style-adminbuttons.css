@@ -1,0 +1,36 @@
+.btn-edit {
+    display: none;
+    background-color: #00A79B;
+    color: white;
+    border-radius: 3vh;
+    border-style: none;
+    padding: 1vh;
+    font-size: 1.5vh;
+    width: 12vh;
+    text-align: center;
+    outline: none;
+    margin: 0.5vh auto;
+    transition: all .3s ease-in-out;
+    cursor: pointer;
+}
+
+.btn-disconnect {
+    background-color: #BE4C50;
+    color: white;
+    border-radius: 3vh;
+    border-style: none;
+    padding: 1vh 2vh;
+    font-size: 2vh;
+    text-align: center;
+    outline: none;
+    margin: 5vh auto;
+    cursor: pointer;
+    float: right;
+    margin-right: 5vw;
+}
+
+#btn-add-formation {
+    width: 25vh;
+    font-size: 2vh;
+    background-color: #f0ad4e;
+}

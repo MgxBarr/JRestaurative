@@ -1,0 +1,786 @@
+[
+    {
+       "code":"01",
+       "statut":"green",
+       "nom_departement":"Ain",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br><\/span> Ain <br><span class='titreinfosdep'>Responsables :<\/span> <br>Noémie MICOULET <br>Déborah CAICEDO-AGUDELO<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :<\/span><br> 07 81 12 51 89 <br> 07 71 07 86 51<br> <span class='titreinfosdep'>Mails :<\/span><br> coordination.sud-est@justicerestaurative.org <br> assistante.coordination.sud-est@justicerestaurative.org<br>",
+       "mesure1":"green",
+       "mesure2":"green",
+       "mesure3":"green"
+    },
+    {
+       "code":"02",
+       "statut":"green",
+       "nom_departement":"Aisne",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Aisne <br><span class='titreinfosdep'>Responsables :</span> <br>Héloïse SQUELBUT<br>Théophile LEVESQUE<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span>06 08 99 80 44<br>06 82 47 54 47<br> <span class='titreinfosdep'>Mails :</span><br>coordination.nord-est@justicerestaurative.org<br>assistant.coordination.nord-est@justicerestaurative.org<br>",
+       "mesure1":"red",
+       "mesure2":"green",
+       "mesure3":"green"
+    },
+    {
+       "code":"03",
+       "statut":"green",
+       "nom_departement":"Allier",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Allier <br><span class='titreinfosdep'>Responsables :</span> <br>Noémie MICOULET <br>Déborah CAICEDO-AGUDELO<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br> 07 81 12 51 89 <br> 07 71 07 86 51<br> <span class='titreinfosdep'>Mails :</span><br> coordination.sud-est@justicerestaurative.org <br> assistante.coordination.sud-est@justicerestaurative.org<br>",       "mesure1":"green",
+       "mesure2":"green",
+       "mesure3":"green"
+    },
+    {
+       "code":"04",
+       "statut":"orange",
+       "nom_departement":"Alpes de Haute Provence",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Alpes de Haute Provence <br><span class='titreinfosdep'>Responsables :</span> <br>Noémie MICOULET <br>Déborah CAICEDO-AGUDELO<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br> 07 81 12 51 89 <br> 07 71 07 86 51<br> <span class='titreinfosdep'>Mails :</span><br> coordination.sud-est@justicerestaurative.org <br> assistante.coordination.sud-est@justicerestaurative.org<br>",       "mesure1":"green",
+       "mesure2":"green",
+       "mesure3":"green"
+    },
+    {
+       "code":"05",
+       "statut":"green",
+       "nom_departement":"Hautes Alpes",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Hautes Alpes <br><span class='titreinfosdep'>Responsables :</span> <br>Noémie MICOULET <br>Déborah CAICEDO-AGUDELO<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br> 07 81 12 51 89 <br> 07 71 07 86 51<br> <span class='titreinfosdep'>Mails :</span><br> coordination.sud-est@justicerestaurative.org <br> assistante.coordination.sud-est@justicerestaurative.org<br>",       "mesure1":"orange",
+       "mesure2":"green",
+       "mesure3":"green"
+    },
+    {
+       "code":"06",
+       "statut":"green",
+       "nom_departement":"Alpes Maritimes",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Alpes Maritimes <br><span class='titreinfosdep'>Responsables :</span> <br>Noémie MICOULET <br>Déborah CAICEDO-AGUDELO<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br> 07 81 12 51 89 <br> 07 71 07 86 51<br> <span class='titreinfosdep'>Mails :</span><br> coordination.sud-est@justicerestaurative.org <br> assistante.coordination.sud-est@justicerestaurative.org<br>",       "mesure1":"green",
+       "mesure2":"orange",
+       "mesure3":"red"
+    },
+    {
+       "code":"07",
+       "statut":"red",
+       "nom_departement":"Ard\u00eache",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Ard\u00eache <br><span class='titreinfosdep'>Responsables :</span> <br>Noémie MICOULET <br>Déborah CAICEDO-AGUDELO<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br> 07 81 12 51 89 <br> 07 71 07 86 51<br> <span class='titreinfosdep'>Mails :</span><br> coordination.sud-est@justicerestaurative.org <br> assistante.coordination.sud-est@justicerestaurative.org<br>",       "mesure1":"orange",
+       "mesure2":"green",
+       "mesure3":"green"
+    },
+    {
+       "code":"08",
+       "statut":"orange",
+       "nom_departement":"Ardennes",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Ardennes <br><span class='titreinfosdep'>Responsables :</span> <br>Héloïse SQUELBUT<br>Théophile LEVESQUE<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span>06 08 99 80 44<br>06 82 47 54 47<br> <span class='titreinfosdep'>Mails :</span><br>coordination.nord-est@justicerestaurative.org<br>assistant.coordination.nord-est@justicerestaurative.org<br>",       "mesure1":"red",
+       "mesure2":"orange",
+       "mesure3":"green"
+    },
+    {
+       "code":"09",
+       "statut":"orange",
+       "nom_departement":"Ari\u00e8ge",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Ari\u00e8ge<br><span class='titreinfosdep'>Responsables :</span><br> Emilie MATIGNON<br>Eulalie SPYCHIGER<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>06 77 99 27 15<br>06 32 57 71 25<br> <span class='titreinfosdep'>Mails :</span><br>coordination.sud-ouest@justicerestaurative.org<br>eulalie.spychiger@justicerestaurative.org<br>",       "mesure1":"red",
+       "mesure2":"green",
+       "mesure3":"green"
+    },
+    {
+       "code":"10",
+       "statut":"green",
+       "nom_departement":"Aube",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Aube <br><span class='titreinfosdep'>Responsables :</span> <br>Héloïse SQUELBUT<br>Théophile LEVESQUE<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span>06 08 99 80 44<br>06 82 47 54 47<br> <span class='titreinfosdep'>Mails :</span><br>coordination.nord-est@justicerestaurative.org<br>assistant.coordination.nord-est@justicerestaurative.org<br>",       "mesure1":"red",
+       "mesure2":"green",
+       "mesure3":"red"
+    },
+    {
+       "code":"11",
+       "statut":"orange",
+       "nom_departement":"Aude",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Aude <br><span class='titreinfosdep'>Responsables :</span> <br>Noémie MICOULET <br>Déborah CAICEDO-AGUDELO<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br> 07 81 12 51 89 <br> 07 71 07 86 51<br> <span class='titreinfosdep'>Mails :</span><br> coordination.sud-est@justicerestaurative.org <br> assistante.coordination.sud-est@justicerestaurative.org<br>",       "mesure1":"green",
+       "mesure2":"green",
+       "mesure3":"orange"
+    },
+    {
+       "code":"12",
+       "statut":"green",
+       "nom_departement":"Aveyron",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Aveyron <br><span class='titreinfosdep'>Responsables :</span> <br>Noémie MICOULET <br>Déborah CAICEDO-AGUDELO<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br> 07 81 12 51 89 <br> 07 71 07 86 51<br> <span class='titreinfosdep'>Mails :</span><br> coordination.sud-est@justicerestaurative.org <br> assistante.coordination.sud-est@justicerestaurative.org<br>",       "mesure1":"green",
+       "mesure2":"green",
+       "mesure3":"green"
+    },
+    {
+       "code":"13",
+       "statut":"green",
+       "nom_departement":"Bouches du Rh\u00f4ne",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Bouches du Rh\u00f4ne <br><span class='titreinfosdep'>Responsables :</span> <br>Noémie MICOULET <br>Déborah CAICEDO-AGUDELO<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br> 07 81 12 51 89 <br> 07 71 07 86 51<br> <span class='titreinfosdep'>Mails :</span><br> coordination.sud-est@justicerestaurative.org <br> assistante.coordination.sud-est@justicerestaurative.org<br>",       
+       "mesure1":"green",
+       "mesure2":"green",
+       "mesure3":"green"
+    },
+    {
+       "code":"14",
+       "statut":"green",
+       "nom_departement":"Calvados",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Calvados<br><span class='titreinfosdep'>Responsables :</span><br> Non défini<br>Non défini<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>00 00 00 00 00<br>00 00 00 00 00<br> <span class='titreinfosdep'>Mails :</span><br>contact@justicerestaurative.org <br>",       
+       "mesure1":"orange",
+       "mesure2":"orange",
+       "mesure3":"orange"
+    },
+    {
+       "code":"15",
+       "statut":"red",
+       "nom_departement":"Cantal",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Ain <br><span class='titreinfosdep'>Responsables :</span> <br>Noémie MICOULET <br>Déborah CAICEDO-AGUDELO<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br> 07 81 12 51 89 <br> 07 71 07 86 51<br> <span class='titreinfosdep'>Mails :</span><br> coordination.sud-est@justicerestaurative.org <br> assistante.coordination.sud-est@justicerestaurative.org<br>",       
+       "mesure1":"green",
+       "mesure2":"green",
+       "mesure3":"green"
+    },
+    {
+       "code":"16",
+       "statut":"orange",
+       "nom_departement":"Charente",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Charente<br><span class='titreinfosdep'>Responsables :</span><br> Emilie MATIGNON<br>Eulalie SPYCHIGER<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>06 77 99 27 15<br>06 32 57 71 25<br> <span class='titreinfosdep'>Mails :</span><br>coordination.sud-ouest@justicerestaurative.org<br>eulalie.spychiger@justicerestaurative.org<br>",       "mesure1":"green",
+       "mesure2":"green",
+       "mesure3":"orange"
+    },
+    {
+       "code":"17",
+       "statut":"green",
+       "nom_departement":"Charente Maritime",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Charente Maritime<br><span class='titreinfosdep'>Responsables :</span><br> Emilie MATIGNON<br>Eulalie SPYCHIGER<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>06 77 99 27 15<br>06 32 57 71 25<br> <span class='titreinfosdep'>Mails :</span><br>coordination.sud-ouest@justicerestaurative.org<br>eulalie.spychiger@justicerestaurative.org<br>",       "mesure1":"orange",
+       "mesure2":"green",
+       "mesure3":"green"
+    },
+    {
+       "code":"18",
+       "statut":"red",
+       "nom_departement":"Cher",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Cher<br><span class='titreinfosdep'>Responsables :</span><br> Non défini<br>Non défini<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>00 00 00 00 00<br>00 00 00 00 00<br> <span class='titreinfosdep'>Mails :</span><br>contact@justicerestaurative.org <br>",       "mesure1":"red",
+       "mesure2":"red",
+       "mesure3":"red"
+    },
+    {
+       "code":"19",
+       "statut":"green",
+       "nom_departement":"Corr\u00e8ze",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Corr\u00e8ze<br><span class='titreinfosdep'>Responsables :</span><br> Emilie MATIGNON<br>Eulalie SPYCHIGER<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>06 77 99 27 15<br>06 32 57 71 25<br> <span class='titreinfosdep'>Mails :</span><br>coordination.sud-ouest@justicerestaurative.org<br>eulalie.spychiger@justicerestaurative.org<br>",       "mesure1":"green",
+       "mesure2":"green",
+       "mesure3":"green"
+    },
+    {
+       "code":"2A",
+       "statut":"green",
+       "nom_departement":"Corse du Sud",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Corse du Sud <br><span class='titreinfosdep'>Responsables :</span> <br>Noémie MICOULET <br>Déborah CAICEDO-AGUDELO<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br> 07 81 12 51 89 <br> 07 71 07 86 51<br> <span class='titreinfosdep'>Mails :</span><br> coordination.sud-est@justicerestaurative.org <br> assistante.coordination.sud-est@justicerestaurative.org<br>",       "mesure1":"green",
+       "mesure2":"green",
+       "mesure3":"green"
+    },
+    {
+       "code":"2B",
+       "statut":"red",
+       "nom_departement":"Haute Corse",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Haute Corse <br><span class='titreinfosdep'>Responsables :</span> <br>Noémie MICOULET <br>Déborah CAICEDO-AGUDELO<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br> 07 81 12 51 89 <br> 07 71 07 86 51<br> <span class='titreinfosdep'>Mails :</span><br> coordination.sud-est@justicerestaurative.org <br> assistante.coordination.sud-est@justicerestaurative.org<br>",       "mesure1":"orange",
+       "mesure2":"red",
+       "mesure3":"red"
+    },
+    {
+       "code":"21",
+       "statut":"orange",
+       "nom_departement":"C\u00f4te d'Or",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> C\u00f4te d'Or <br><span class='titreinfosdep'>Responsables :</span> <br>Héloïse SQUELBUT<br>Théophile LEVESQUE<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span>06 08 99 80 44<br>06 82 47 54 47<br> <span class='titreinfosdep'>Mails :</span><br>coordination.nord-est@justicerestaurative.org<br>assistant.coordination.nord-est@justicerestaurative.org<br>",       "mesure1":"red",
+       "mesure2":"orange",
+       "mesure3":"orange"
+    },
+    {
+       "code":"22",
+       "statut":"orange",
+       "nom_departement":"C\u00f4tes d'Armor",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> C\u00f4tes d'Armor<br><span class='titreinfosdep'>Responsables :</span><br> Non défini<br>Non défini<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>00 00 00 00 00<br>00 00 00 00 00<br> <span class='titreinfosdep'>Mails :</span><br>contact@justicerestaurative.org <br>",       "mesure1":"orange",
+       "mesure2":"green",
+       "mesure3":"green"
+    },
+    {
+       "code":"23",
+       "statut":"red",
+       "nom_departement":"Creuse",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Creuse<br><span class='titreinfosdep'>Responsables :</span><br> Emilie MATIGNON<br>Eulalie SPYCHIGER<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>06 77 99 27 15<br>06 32 57 71 25<br> <span class='titreinfosdep'>Mails :</span><br>coordination.sud-ouest@justicerestaurative.org<br>eulalie.spychiger@justicerestaurative.org<br>",       "mesure1":"green",
+       "mesure2":"green",
+       "mesure3":"orange"
+    },
+    {
+       "code":"24",
+       "statut":"green",
+       "nom_departement":"Dordogne",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Dordogne<br><span class='titreinfosdep'>Responsables :</span><br> Emilie MATIGNON<br>Eulalie SPYCHIGER<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>06 77 99 27 15<br>06 32 57 71 25<br> <span class='titreinfosdep'>Mails :</span><br>coordination.sud-ouest@justicerestaurative.org<br>eulalie.spychiger@justicerestaurative.org<br>",       "mesure1":"red",
+       "mesure2":"green",
+       "mesure3":"green"
+    },
+    {
+       "code":"25",
+       "statut":"green",
+       "nom_departement":"Doubs",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Doubs <br><span class='titreinfosdep'>Responsables :</span> <br>Héloïse SQUELBUT<br>Théophile LEVESQUE<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span>06 08 99 80 44<br>06 82 47 54 47<br> <span class='titreinfosdep'>Mails :</span><br>coordination.nord-est@justicerestaurative.org<br>assistant.coordination.nord-est@justicerestaurative.org<br>",       "mesure1":"green",
+       "mesure2":"green",
+       "mesure3":"green"
+    },
+    {
+       "code":"26",
+       "statut":"orange",
+       "nom_departement":"Dr\u00f4me",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Dr\u00f4me <br><span class='titreinfosdep'>Responsables :</span> <br>Noémie MICOULET <br>Déborah CAICEDO-AGUDELO<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br> 07 81 12 51 89 <br> 07 71 07 86 51<br> <span class='titreinfosdep'>Mails :</span><br> coordination.sud-est@justicerestaurative.org <br> assistante.coordination.sud-est@justicerestaurative.org<br>",       "mesure1":"green",
+       "mesure2":"green",
+       "mesure3":"green"
+    },
+    {
+       "code":"27",
+       "statut":"green",
+       "nom_departement":"Eure",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Eure<br><span class='titreinfosdep'>Responsables :</span><br> Non défini<br>Non défini<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>00 00 00 00 00<br>00 00 00 00 00<br> <span class='titreinfosdep'>Mails :</span><br>contact@justicerestaurative.org <br>",       "mesure1":"orange",
+       "mesure2":"orange",
+       "mesure3":"green"
+    },
+    {
+       "code":"28",
+       "statut":"green",
+       "nom_departement":"Eure et loir",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Eure et loir <br><span class='titreinfosdep'>Responsables :</span> <br>Héloïse SQUELBUT<br>Théophile LEVESQUE<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span>06 08 99 80 44<br>06 82 47 54 47<br> <span class='titreinfosdep'>Mails :</span><br>coordination.nord-est@justicerestaurative.org<br>assistant.coordination.nord-est@justicerestaurative.org<br>",       "mesure1":"green",
+       "mesure2":"green",
+       "mesure3":"green"
+    },
+    {
+       "code":"29",
+       "statut":"green",
+       "nom_departement":"Finist\u00e8re",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br><\/span> Finist\u00e8re<br><span class='titreinfosdep'>Responsables :<\/span><br> Non défini<br>Non défini<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :<\/span><br>00 00 00 00 00<br>00 00 00 00 00<br> <span class='titreinfosdep'>Mails :<\/span><br>contact@justicerestaurative.org <br>",
+       "mesure1":"red",
+       "mesure2":"green",
+       "mesure3":"orange"
+    },
+    {
+       "code":"30",
+       "statut":"orange",
+       "nom_departement":"Gard",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Gard <br><span class='titreinfosdep'>Responsables :</span> <br>Noémie MICOULET <br>Déborah CAICEDO-AGUDELO<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br> 07 81 12 51 89 <br> 07 71 07 86 51<br> <span class='titreinfosdep'>Mails :</span><br> coordination.sud-est@justicerestaurative.org <br> assistante.coordination.sud-est@justicerestaurative.org<br>",       "mesure1":"green",
+       "mesure2":"green",
+       "mesure3":"green"
+    },
+    {
+       "code":"31",
+       "statut":"green",
+       "nom_departement":"Haute Garonne",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Haute Garonne<br><span class='titreinfosdep'>Responsables :</span><br> Emilie MATIGNON<br>Eulalie SPYCHIGER<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>06 77 99 27 15<br>06 32 57 71 25<br> <span class='titreinfosdep'>Mails :</span><br>coordination.sud-ouest@justicerestaurative.org<br>eulalie.spychiger@justicerestaurative.org<br>",       "mesure1":"green",
+       "mesure2":"green",
+       "mesure3":"green"
+    },
+    {
+       "code":"32",
+       "statut":"red",
+       "nom_departement":"Gers",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Gers<br><span class='titreinfosdep'>Responsables :</span><br> Emilie MATIGNON<br>Eulalie SPYCHIGER<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>06 77 99 27 15<br>06 32 57 71 25<br> <span class='titreinfosdep'>Mails :</span><br>coordination.sud-ouest@justicerestaurative.org<br>eulalie.spychiger@justicerestaurative.org<br>",       "mesure1":"green",
+       "mesure2":"green",
+       "mesure3":"green"
+    },
+    {
+       "code":"33",
+       "statut":"green",
+       "nom_departement":"Gironde",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Gironde<br><span class='titreinfosdep'>Responsables :</span><br> Emilie MATIGNON<br>Eulalie SPYCHIGER<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>06 77 99 27 15<br>06 32 57 71 25<br> <span class='titreinfosdep'>Mails :</span><br>coordination.sud-ouest@justicerestaurative.org<br>eulalie.spychiger@justicerestaurative.org<br>",       "mesure1":"green",
+       "mesure2":"orange",
+       "mesure3":"green"
+    },
+    {
+       "code":"34",
+       "statut":"red",
+       "nom_departement":"H\u00e9rault",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> H\u00e9rault <br><span class='titreinfosdep'>Responsables :</span> <br>Noémie MICOULET <br>Déborah CAICEDO-AGUDELO<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br> 07 81 12 51 89 <br> 07 71 07 86 51<br> <span class='titreinfosdep'>Mails :</span><br> coordination.sud-est@justicerestaurative.org <br> assistante.coordination.sud-est@justicerestaurative.org<br>",       "mesure1":"green",
+       "mesure2":"orange",
+       "mesure3":"green"
+    },
+    {
+       "code":"35",
+       "statut":"green",
+       "nom_departement":"Ille et Vilaine",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Ille et Vilaine<br><span class='titreinfosdep'>Responsables :</span><br> Non défini<br>Non défini<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>00 00 00 00 00<br>00 00 00 00 00<br> <span class='titreinfosdep'>Mails :</span><br>contact@justicerestaurative.org <br>",       "mesure1":"green",
+       "mesure2":"green",
+       "mesure3":"green"
+    },
+    {
+       "code":"36",
+       "statut":"green",
+       "nom_departement":"Indre",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Indre<br><span class='titreinfosdep'>Responsables :</span><br> Non défini<br>Non défini<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>00 00 00 00 00<br>00 00 00 00 00<br> <span class='titreinfosdep'>Mails :</span><br>contact@justicerestaurative.org <br>",       "mesure1":"green",
+       "mesure2":"green",
+       "mesure3":"green"
+    },
+    {
+       "code":"37",
+       "statut":"green",
+       "nom_departement":"Indre et loire",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Indre et loire<br><span class='titreinfosdep'>Responsables :</span><br> Non défini<br>Non défini<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>00 00 00 00 00<br>00 00 00 00 00<br> <span class='titreinfosdep'>Mails :</span><br>contact@justicerestaurative.org <br>",       "mesure1":"red",
+       "mesure2":"green",
+       "mesure3":"green"
+    },
+    {
+       "code":"38",
+       "statut":"green",
+       "nom_departement":"Is\u00e8re",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Is\u00e8re <br><span class='titreinfosdep'>Responsables :</span> <br>Noémie MICOULET <br>Déborah CAICEDO-AGUDELO<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br> 07 81 12 51 89 <br> 07 71 07 86 51<br> <span class='titreinfosdep'>Mails :</span><br> coordination.sud-est@justicerestaurative.org <br> assistante.coordination.sud-est@justicerestaurative.org<br>",       "mesure1":"green",
+       "mesure2":"green",
+       "mesure3":"green"
+    },
+    {
+       "code":"39",
+       "statut":"red",
+       "nom_departement":"Jura",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Jura <br><span class='titreinfosdep'>Responsables :</span> <br>Héloïse SQUELBUT<br>Théophile LEVESQUE<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span>06 08 99 80 44<br>06 82 47 54 47<br> <span class='titreinfosdep'>Mails :</span><br>coordination.nord-est@justicerestaurative.org<br>assistant.coordination.nord-est@justicerestaurative.org<br>",       "mesure1":"green",
+       "mesure2":"green",
+       "mesure3":"green"
+    },
+    {
+       "code":"40",
+       "statut":"orange",
+       "nom_departement":"Landes",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Landes<br><span class='titreinfosdep'>Responsables :</span><br> Emilie MATIGNON<br>Eulalie SPYCHIGER<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>06 77 99 27 15<br>06 32 57 71 25<br> <span class='titreinfosdep'>Mails :</span><br>coordination.sud-ouest@justicerestaurative.org<br>eulalie.spychiger@justicerestaurative.org<br>",       "mesure1":"green",
+       "mesure2":"green",
+       "mesure3":"orange"
+    },
+    {
+       "code":"41",
+       "statut":"green",
+       "nom_departement":"Loir et Cher",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Loir et Cher<br><span class='titreinfosdep'>Responsables :</span><br> Non défini<br>Non défini<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>00 00 00 00 00<br>00 00 00 00 00<br> <span class='titreinfosdep'>Mails :</span><br>contact@justicerestaurative.org <br>",       "mesure1":"green",
+       "mesure2":"green",
+       "mesure3":"green"
+    },
+    {
+       "code":"42",
+       "statut":"green",
+       "nom_departement":"Loire",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Loire <br><span class='titreinfosdep'>Responsables :</span> <br>Noémie MICOULET <br>Déborah CAICEDO-AGUDELO<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br> 07 81 12 51 89 <br> 07 71 07 86 51<br> <span class='titreinfosdep'>Mails :</span><br> coordination.sud-est@justicerestaurative.org <br> assistante.coordination.sud-est@justicerestaurative.org<br>",       "mesure1":"green",
+       "mesure2":"green",
+       "mesure3":"green"
+    },
+    {
+       "code":"43",
+       "statut":"green",
+       "nom_departement":"Haute-Loire ",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Haute-Loire <br><span class='titreinfosdep'>Responsables :</span> <br>Noémie MICOULET <br>Déborah CAICEDO-AGUDELO<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br> 07 81 12 51 89 <br> 07 71 07 86 51<br> <span class='titreinfosdep'>Mails :</span><br> coordination.sud-est@justicerestaurative.org <br> assistante.coordination.sud-est@justicerestaurative.org<br>",       "mesure1":"green",
+       "mesure2":"green",
+       "mesure3":"green"
+    },
+    {
+       "code":"44",
+       "statut":"green",
+       "nom_departement":"Loire-Atlantique  ",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Loire-Atlantique<br><span class='titreinfosdep'>Responsables :</span><br> Non défini<br>Non défini<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>00 00 00 00 00<br>00 00 00 00 00<br> <span class='titreinfosdep'>Mails :</span><br>contact@justicerestaurative.org <br>",       "mesure1":"green",
+       "mesure2":"green",
+       "mesure3":"green"
+    },
+    {
+       "code":"45",
+       "statut":"red",
+       "nom_departement":"Loiret",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Loiret<br><span class='titreinfosdep'>Responsables :</span><br> Non défini<br>Non défini<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>00 00 00 00 00<br>00 00 00 00 00<br> <span class='titreinfosdep'>Mails :</span><br>contact@justicerestaurative.org <br>",       "mesure1":"green",
+       "mesure2":"green",
+       "mesure3":"green"
+    },
+    {
+       "code":"46",
+       "statut":"orange",
+       "nom_departement":"Lot",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Lot<br><span class='titreinfosdep'>Responsables :</span><br> Emilie MATIGNON<br>Eulalie SPYCHIGER<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>06 77 99 27 15<br>06 32 57 71 25<br> <span class='titreinfosdep'>Mails :</span><br>coordination.sud-ouest@justicerestaurative.org<br>eulalie.spychiger@justicerestaurative.org<br>",       "mesure1":"orange",
+       "mesure2":"red",
+       "mesure3":"green"
+    },
+    {
+       "code":"47",
+       "statut":"green",
+       "nom_departement":"Lot et Garonne",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Lot et Garonne<br><span class='titreinfosdep'>Responsables :</span><br> Emilie MATIGNON<br>Eulalie SPYCHIGER<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>06 77 99 27 15<br>06 32 57 71 25<br> <span class='titreinfosdep'>Mails :</span><br>coordination.sud-ouest@justicerestaurative.org<br>eulalie.spychiger@justicerestaurative.org<br>",       "mesure1":"green",
+       "mesure2":"green",
+       "mesure3":"green"
+    },
+    {
+       "code":"48",
+       "statut":"green",
+       "nom_departement":"Loz\u00e8re ",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Loz\u00e8re <br><span class='titreinfosdep'>Responsables :</span> <br>Noémie MICOULET <br>Déborah CAICEDO-AGUDELO<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br> 07 81 12 51 89 <br> 07 71 07 86 51<br> <span class='titreinfosdep'>Mails :</span><br> coordination.sud-est@justicerestaurative.org <br> assistante.coordination.sud-est@justicerestaurative.org<br>",       "mesure1":"green",
+       "mesure2":"green",
+       "mesure3":"green"
+    },
+    {
+       "code":"49",
+       "statut":"green",
+       "nom_departement":"Maine et Loire  ",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Maine et Loire<br><span class='titreinfosdep'>Responsables :</span><br> Non défini<br>Non défini<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>00 00 00 00 00<br>00 00 00 00 00<br> <span class='titreinfosdep'>Mails :</span><br>contact@justicerestaurative.org <br>",       "mesure1":"green",
+       "mesure2":"green",
+       "mesure3":"green"
+    },
+    {
+       "code":"50",
+       "statut":"green",
+       "nom_departement":"Manche ",
+       "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Manche<br><span class='titreinfosdep'>Responsables :</span><br> Non défini<br>Non défini<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>00 00 00 00 00<br>00 00 00 00 00<br> <span class='titreinfosdep'>Mails :</span><br>contact@justicerestaurative.org <br>",       "mesure1":"green",
+       "mesure2":"green",
+       "mesure3":"green"
+    },
+    {
+        "code":"51",
+        "statut":"green",
+        "nom_departement":"Marne ",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Marne <br><span class='titreinfosdep'>Responsables :</span> <br>Héloïse SQUELBUT<br>Théophile LEVESQUE<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span>06 08 99 80 44<br>06 82 47 54 47<br> <span class='titreinfosdep'>Mails :</span><br>coordination.nord-est@justicerestaurative.org<br>assistant.coordination.nord-est@justicerestaurative.org<br>",       "mesure1":"green",
+        "mesure2":"green",
+        "mesure3":"green"
+     },
+     {
+        "code":"52",
+        "statut":"green",
+        "nom_departement":"Haute Marne ",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Haute Marne <br><span class='titreinfosdep'>Responsables :</span> <br>Héloïse SQUELBUT<br>Théophile LEVESQUE<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span>06 08 99 80 44<br>06 82 47 54 47<br> <span class='titreinfosdep'>Mails :</span><br>coordination.nord-est@justicerestaurative.org<br>assistant.coordination.nord-est@justicerestaurative.org<br>",       "mesure1":"green",
+        "mesure2":"green",
+        "mesure3":"orange"
+     },
+     {
+        "code":"53",
+        "statut":"red",
+        "nom_departement":"Mayenne ",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Mayenne <br><span class='titreinfosdep'>Responsables :</span><br> Non défini<br>Non défini<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>00 00 00 00 00<br>00 00 00 00 00<br> <span class='titreinfosdep'>Mails :</span><br>contact@justicerestaurative.org <br>",       "mesure1":"green",
+        "mesure2":"orange",
+        "mesure3":"green"
+     },
+     {
+        "code":"54",
+        "statut":"green",
+        "nom_departement":"Meurthe et Moselle ",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Meurthe et Moselle <br><span class='titreinfosdep'>Responsables :</span> <br>Héloïse SQUELBUT<br>Théophile LEVESQUE<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span>06 08 99 80 44<br>06 82 47 54 47<br> <span class='titreinfosdep'>Mails :</span><br>coordination.nord-est@justicerestaurative.org<br>assistant.coordination.nord-est@justicerestaurative.org<br>",       "mesure1":"green",
+        "mesure2":"green",
+        "mesure3":"green"
+     },
+     {
+        "code":"55",
+        "statut":"green",
+        "nom_departement":"Meuse ",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Meuse <br><span class='titreinfosdep'>Responsables :</span> <br>Héloïse SQUELBUT<br>Théophile LEVESQUE<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span>06 08 99 80 44<br>06 82 47 54 47<br> <span class='titreinfosdep'>Mails :</span><br>coordination.nord-est@justicerestaurative.org<br>assistant.coordination.nord-est@justicerestaurative.org<br>",       "mesure1":"green",
+        "mesure2":"green",
+        "mesure3":"green"
+     },
+     {
+        "code":"56",
+        "statut":"green",
+        "nom_departement":"Morbihan ",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Morbihan <br><span class='titreinfosdep'>Responsables :</span><br> Non défini<br>Non défini<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>00 00 00 00 00<br>00 00 00 00 00<br> <span class='titreinfosdep'>Mails :</span><br>contact@justicerestaurative.org <br>",       "mesure1":"green",
+        "mesure2":"green",
+        "mesure3":"green"
+     },
+     {
+        "code":"57",
+        "statut":"green",
+        "nom_departement":"Moselle ",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Moselle <br><span class='titreinfosdep'>Responsables :</span> <br>Héloïse SQUELBUT<br>Théophile LEVESQUE<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span>06 08 99 80 44<br>06 82 47 54 47<br> <span class='titreinfosdep'>Mails :</span><br>coordination.nord-est@justicerestaurative.org<br>assistant.coordination.nord-est@justicerestaurative.org<br>",       "mesure1":"green",
+        "mesure2":"green",
+        "mesure3":"green"
+     },
+     {
+        "code":"58",
+        "statut":"red",
+        "nom_departement":"Ni\u00e8vre",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Ni\u00e8vre<br><span class='titreinfosdep'>Responsables :</span><br> Non défini<br>Non défini<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>00 00 00 00 00<br>00 00 00 00 00<br> <span class='titreinfosdep'>Mails :</span><br>contact@justicerestaurative.org <br>",       
+        "mesure1":"green",
+        "mesure2":"green",
+        "mesure3":"green"
+     },
+     {
+        "code":"59",
+        "statut":"green",
+        "nom_departement":"Nord",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Nord <br><span class='titreinfosdep'>Responsables :</span> <br>Héloïse SQUELBUT<br>Théophile LEVESQUE<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span>06 08 99 80 44<br>06 82 47 54 47<br> <span class='titreinfosdep'>Mails :</span><br>coordination.nord-est@justicerestaurative.org<br>assistant.coordination.nord-est@justicerestaurative.org<br>",       "mesure1":"green",
+        "mesure2":"green",
+        "mesure3":"green"
+     },
+     {
+        "code":"60",
+        "statut":"green",
+        "nom_departement":"Oise",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Oise <br><span class='titreinfosdep'>Responsables :</span> <br>Héloïse SQUELBUT<br>Théophile LEVESQUE<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span>06 08 99 80 44<br>06 82 47 54 47<br> <span class='titreinfosdep'>Mails :</span><br>coordination.nord-est@justicerestaurative.org<br>assistant.coordination.nord-est@justicerestaurative.org<br>",       "mesure1":"green",
+        "mesure2":"green",
+        "mesure3":"green"
+     },
+     {
+        "code":"61",
+        "statut":"green",
+        "nom_departement":"Orne",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Orne<br><span class='titreinfosdep'>Responsables :</span><br> Non défini<br>Non défini<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>00 00 00 00 00<br>00 00 00 00 00<br> <span class='titreinfosdep'>Mails :</span><br>contact@justicerestaurative.org <br>",        "mesure1":"green",
+        "mesure2":"green",
+        "mesure3":"green"
+     },
+     {
+        "code":"62",
+        "statut":"green",
+        "nom_departement":"Pas De Calais",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Pas De Calais <br><span class='titreinfosdep'>Responsables :</span> <br>Héloïse SQUELBUT<br>Théophile LEVESQUE<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span>06 08 99 80 44<br>06 82 47 54 47<br> <span class='titreinfosdep'>Mails :</span><br>coordination.nord-est@justicerestaurative.org<br>assistant.coordination.nord-est@justicerestaurative.org<br>",       "mesure1":"orange",
+        "mesure2":"green",
+        "mesure3":"red"
+     },
+     {
+        "code":"63",
+        "statut":"green",
+        "nom_departement":"Puy de D\u00f4me",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Puy de D\u00f4me <br><span class='titreinfosdep'>Responsables :</span> <br>Noémie MICOULET <br>Déborah CAICEDO-AGUDELO<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br> 07 81 12 51 89 <br> 07 71 07 86 51<br> <span class='titreinfosdep'>Mails :</span><br> coordination.sud-est@justicerestaurative.org <br> assistante.coordination.sud-est@justicerestaurative.org<br>",       "mesure1":"red",
+        "mesure2":"red",
+        "mesure3":"green"
+     },
+     {
+        "code":"64",
+        "statut":"green",
+        "nom_departement":"Pyr\u00e9n\u00e9es Atlantiques ",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Pyr\u00e9n\u00e9es Atlantiques<br><span class='titreinfosdep'>Responsables :</span><br> Emilie MATIGNON<br>Eulalie SPYCHIGER<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>06 77 99 27 15<br>06 32 57 71 25<br> <span class='titreinfosdep'>Mails :</span><br>coordination.sud-ouest@justicerestaurative.org<br>eulalie.spychiger@justicerestaurative.org<br>",       "mesure1":"green",
+        "mesure2":"red",
+        "mesure3":"green"
+     },
+     {
+        "code":"65",
+        "statut":"green",
+        "nom_departement":"Hautes Pyr\u00e9n\u00e9es ",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Hautes Pyr\u00e9n\u00e9es<br><span class='titreinfosdep'>Responsables :</span><br> Emilie MATIGNON<br>Eulalie SPYCHIGER<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>06 77 99 27 15<br>06 32 57 71 25<br> <span class='titreinfosdep'>Mails :</span><br>coordination.sud-ouest@justicerestaurative.org<br>eulalie.spychiger@justicerestaurative.org<br>",       "mesure1":"green",
+        "mesure2":"orange",
+        "mesure3":"green"
+     },
+     {
+        "code":"66",
+        "statut":"green",
+        "nom_departement":"Pyr\u00e9n\u00e9es Orientales ",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Pyr\u00e9n\u00e9es Orientales <br><span class='titreinfosdep'>Responsables :</span> <br>Noémie MICOULET <br>Déborah CAICEDO-AGUDELO<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br> 07 81 12 51 89 <br> 07 71 07 86 51<br> <span class='titreinfosdep'>Mails :</span><br> coordination.sud-est@justicerestaurative.org <br> assistante.coordination.sud-est@justicerestaurative.org<br>",       "mesure1":"green",
+        "mesure2":"green",
+        "mesure3":"green"
+     },
+     {
+        "code":"67",
+        "statut":"green",
+        "nom_departement":"Bas Rhin ",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Bas Rhin <br><span class='titreinfosdep'>Responsables :</span> <br>Héloïse SQUELBUT<br>Théophile LEVESQUE<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span>06 08 99 80 44<br>06 82 47 54 47<br> <span class='titreinfosdep'>Mails :</span><br>coordination.nord-est@justicerestaurative.org<br>assistant.coordination.nord-est@justicerestaurative.org<br>",       "mesure1":"orange",
+        "mesure2":"green",
+        "mesure3":"green"
+     },
+     {
+        "code":"68",
+        "statut":"green",
+        "nom_departement":"Haut Rhin ",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Haut Rhin <br><span class='titreinfosdep'>Responsables :</span> <br>Héloïse SQUELBUT<br>Théophile LEVESQUE<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span>06 08 99 80 44<br>06 82 47 54 47<br> <span class='titreinfosdep'>Mails :</span><br>coordination.nord-est@justicerestaurative.org<br>assistant.coordination.nord-est@justicerestaurative.org<br>",       "mesure1":"green",
+        "mesure2":"red",
+        "mesure3":"green"
+     },
+     {
+        "code":"69",
+        "statut":"green",
+        "nom_departement":"Rh\u00f4ne",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Rh\u00f4ne <br><span class='titreinfosdep'>Responsables :</span> <br>Noémie MICOULET <br>Déborah CAICEDO-AGUDELO<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br> 07 81 12 51 89 <br> 07 71 07 86 51<br> <span class='titreinfosdep'>Mails :</span><br> coordination.sud-est@justicerestaurative.org <br> assistante.coordination.sud-est@justicerestaurative.org<br>",       "mesure1":"green",
+        "mesure2":"green",
+        "mesure3":"green"
+     },
+     {
+        "code":"70",
+        "statut":"orange",
+        "nom_departement":"Haute Sa\u00f4ne ",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Haute Sa\u00f4ne <br><span class='titreinfosdep'>Responsables :</span> <br>Héloïse SQUELBUT<br>Théophile LEVESQUE<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span>06 08 99 80 44<br>06 82 47 54 47<br> <span class='titreinfosdep'>Mails :</span><br>coordination.nord-est@justicerestaurative.org<br>assistant.coordination.nord-est@justicerestaurative.org<br>",       "mesure1":"green",
+        "mesure2":"green",
+        "mesure3":"green"
+     },
+     {
+        "code":"71",
+        "statut":"green",
+        "nom_departement":"Sa\u00f4ne et Loire",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Sa\u00f4ne et Loire <br><span class='titreinfosdep'>Responsables :</span> <br>Héloïse SQUELBUT<br>Théophile LEVESQUE<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span>06 08 99 80 44<br>06 82 47 54 47<br> <span class='titreinfosdep'>Mails :</span><br>coordination.nord-est@justicerestaurative.org<br>assistant.coordination.nord-est@justicerestaurative.org<br>",       "mesure1":"green",
+        "mesure2":"green",
+        "mesure3":"green"
+     },
+     {
+        "code":"72",
+        "statut":"orange",
+        "nom_departement":"Sarthe",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Sarthe<br><span class='titreinfosdep'>Responsables :</span><br> Non défini<br>Non défini<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>00 00 00 00 00<br>00 00 00 00 00<br> <span class='titreinfosdep'>Mails :</span><br>contact@justicerestaurative.org <br>",       "mesure1":"green",
+        "mesure2":"green",
+        "mesure3":"red"
+     },
+     {
+        "code":"73",
+        "statut":"green",
+        "nom_departement":"Savoie ",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Savoie <br><span class='titreinfosdep'>Responsables :</span> <br>Noémie MICOULET <br>Déborah CAICEDO-AGUDELO<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br> 07 81 12 51 89 <br> 07 71 07 86 51<br> <span class='titreinfosdep'>Mails :</span><br> coordination.sud-est@justicerestaurative.org <br> assistante.coordination.sud-est@justicerestaurative.org<br>",       "mesure1":"green",
+        "mesure2":"orange",
+        "mesure3":"green"
+     },
+     {
+        "code":"74",
+        "statut":"green",
+        "nom_departement":"Haute Savoie",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Haute Savoie <br><span class='titreinfosdep'>Responsables :</span> <br>Noémie MICOULET <br>Déborah CAICEDO-AGUDELO<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br> 07 81 12 51 89 <br> 07 71 07 86 51<br> <span class='titreinfosdep'>Mails :</span><br> coordination.sud-est@justicerestaurative.org <br> assistante.coordination.sud-est@justicerestaurative.org<br>",       "mesure1":"green",
+        "mesure2":"green",
+        "mesure3":"green"
+     },
+     {
+        "code":"75",
+        "statut":"green",
+        "nom_departement":"Paris ",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Paris <br><span class='titreinfosdep'>Responsables :</span> <br>Héloïse SQUELBUT<br>Théophile LEVESQUE<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span>06 08 99 80 44<br>06 82 47 54 47<br> <span class='titreinfosdep'>Mails :</span><br>coordination.nord-est@justicerestaurative.org<br>assistant.coordination.nord-est@justicerestaurative.org<br>",       "mesure1":"green",
+        "mesure2":"green",
+        "mesure3":"green"
+     },
+     {
+        "code":"76",
+        "statut":"red",
+        "nom_departement":"Seine Maritime ",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Seine Maritime<br><span class='titreinfosdep'>Responsables :</span><br> Non défini<br>Non défini<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>00 00 00 00 00<br>00 00 00 00 00<br> <span class='titreinfosdep'>Mails :</span><br>contact@justicerestaurative.org <br>",       "mesure1":"green",
+        "mesure2":"green",
+        "mesure3":"green"
+     },
+     {
+        "code":"77",
+        "statut":"green",
+        "nom_departement":"Seine et Marne ",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Seine et Marne <br><span class='titreinfosdep'>Responsables :</span> <br>Héloïse SQUELBUT<br>Théophile LEVESQUE<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span>06 08 99 80 44<br>06 82 47 54 47<br> <span class='titreinfosdep'>Mails :</span><br>coordination.nord-est@justicerestaurative.org<br>assistant.coordination.nord-est@justicerestaurative.org<br>",       "mesure1":"green",
+        "mesure2":"red",
+        "mesure3":"green"
+     },
+     {
+        "code":"78",
+        "statut":"green",
+        "nom_departement":" Yvelines ",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Yvelines<br><span class='titreinfosdep'>Responsables :</span><br> Non défini<br>Non défini<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>00 00 00 00 00<br>00 00 00 00 00<br> <span class='titreinfosdep'>Mails :</span><br>contact@justicerestaurative.org <br>",       "mesure1":"red",
+        "mesure2":"red",
+        "mesure3":"red"
+     },
+     {
+        "code":"79",
+        "statut":"green",
+        "nom_departement":"Deux S\u00e8vres ",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Deux S\u00e8vres<br><span class='titreinfosdep'>Responsables :</span><br> Emilie MATIGNON<br>Eulalie SPYCHIGER<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>06 77 99 27 15<br>06 32 57 71 25<br> <span class='titreinfosdep'>Mails :</span><br>coordination.sud-ouest@justicerestaurative.org<br>eulalie.spychiger@justicerestaurative.org<br>",       "mesure1":"green",
+        "mesure2":"green",
+        "mesure3":"green"
+     },
+     {
+        "code":"80",
+        "statut":"orange",
+        "nom_departement":"Somme ",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Somme <br><span class='titreinfosdep'>Responsables :</span> <br>Héloïse SQUELBUT<br>Théophile LEVESQUE<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span>06 08 99 80 44<br>06 82 47 54 47<br> <span class='titreinfosdep'>Mails :</span><br>coordination.nord-est@justicerestaurative.org<br>assistant.coordination.nord-est@justicerestaurative.org<br>",       "mesure1":"green",
+        "mesure2":"green",
+        "mesure3":"green"
+     },
+     {
+        "code":"81",
+        "statut":"green",
+        "nom_departement":"Tarn",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Tarn<br><span class='titreinfosdep'>Responsables :</span><br> Emilie MATIGNON<br>Eulalie SPYCHIGER<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>06 77 99 27 15<br>06 32 57 71 25<br> <span class='titreinfosdep'>Mails :</span><br>coordination.sud-ouest@justicerestaurative.org<br>eulalie.spychiger@justicerestaurative.org<br>",       "mesure1":"green",
+        "mesure2":"green",
+        "mesure3":"green"
+     },
+     {
+        "code":"82",
+        "statut":"orange",
+        "nom_departement":"Tarn et Garonne",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Tarn et Garonne<br><span class='titreinfosdep'>Responsables :</span><br> Emilie MATIGNON<br>Eulalie SPYCHIGER<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>06 77 99 27 15<br>06 32 57 71 25<br> <span class='titreinfosdep'>Mails :</span><br>coordination.sud-ouest@justicerestaurative.org<br>eulalie.spychiger@justicerestaurative.org<br>",       "mesure1":"green",
+        "mesure2":"green",
+        "mesure3":"green"
+     },
+     {
+        "code":"83",
+        "statut":"green",
+        "nom_departement":"Var",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Var <br><span class='titreinfosdep'>Responsables :</span> <br>Noémie MICOULET <br>Déborah CAICEDO-AGUDELO<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br> 07 81 12 51 89 <br> 07 71 07 86 51<br> <span class='titreinfosdep'>Mails :</span><br> coordination.sud-est@justicerestaurative.org <br> assistante.coordination.sud-est@justicerestaurative.org<br>",       "mesure1":"green",
+        "mesure2":"green",
+        "mesure3":"green"
+     },
+     {
+        "code":"84",
+        "statut":"green",
+        "nom_departement":"Vaucluse",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Vaucluse <br><span class='titreinfosdep'>Responsables :</span> <br>Noémie MICOULET <br>Déborah CAICEDO-AGUDELO<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br> 07 81 12 51 89 <br> 07 71 07 86 51<br> <span class='titreinfosdep'>Mails :</span><br> coordination.sud-est@justicerestaurative.org <br> assistante.coordination.sud-est@justicerestaurative.org<br>",       "mesure1":"green",
+        "mesure2":"green",
+        "mesure3":"green"
+     },
+     {
+        "code":"85",
+        "statut":"orange",
+        "nom_departement":"Vend\u00e9e ",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Vendée<br><span class='titreinfosdep'>Responsables :</span><br> Emilie MATIGNON<br>Eulalie SPYCHIGER<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>06 77 99 27 15<br>06 32 57 71 25<br> <span class='titreinfosdep'>Mails :</span><br>coordination.sud-ouest@justicerestaurative.org<br>eulalie.spychiger@justicerestaurative.org<br>",       "mesure1":"green",
+        "mesure2":"green",
+        "mesure3":"green"
+     },
+     {
+        "code":"86",
+        "statut":"red",
+        "nom_departement":"Vienne ",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Vienne<br><span class='titreinfosdep'>Responsables :</span><br> Emilie MATIGNON<br>Eulalie SPYCHIGER<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>06 77 99 27 15<br>06 32 57 71 25<br> <span class='titreinfosdep'>Mails :</span><br>coordination.sud-ouest@justicerestaurative.org<br>eulalie.spychiger@justicerestaurative.org<br>",       "mesure1":"green",
+        "mesure2":"orange",
+        "mesure3":"green"
+     },
+     {
+        "code":"87",
+        "statut":"green",
+        "nom_departement":"Haute Vienne",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Haute Vienne<br><span class='titreinfosdep'>Responsables :</span><br> Emilie MATIGNON<br>Eulalie SPYCHIGER<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>06 77 99 27 15<br>06 32 57 71 25<br> <span class='titreinfosdep'>Mails :</span><br>coordination.sud-ouest@justicerestaurative.org<br>eulalie.spychiger@justicerestaurative.org<br>",       "mesure1":"green",
+        "mesure2":"green",
+        "mesure3":"green"
+     },
+     {
+        "code":"88",
+        "statut":"green",
+        "nom_departement":"Vosges ",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Vosges <br><span class='titreinfosdep'>Responsables :</span> <br>Héloïse SQUELBUT<br>Théophile LEVESQUE<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span>06 08 99 80 44<br>06 82 47 54 47<br> <span class='titreinfosdep'>Mails :</span><br>coordination.nord-est@justicerestaurative.org<br>assistant.coordination.nord-est@justicerestaurative.org<br>",       "mesure1":"green",
+        "mesure2":"green",
+        "mesure3":"green"
+     },
+     {
+        "code":"89",
+        "statut":"green",
+        "nom_departement":"Yonne",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Yonne <br><span class='titreinfosdep'>Responsables :</span> <br>Héloïse SQUELBUT<br>Théophile LEVESQUE<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span>06 08 99 80 44<br>06 82 47 54 47<br> <span class='titreinfosdep'>Mails :</span><br>coordination.nord-est@justicerestaurative.org<br>assistant.coordination.nord-est@justicerestaurative.org<br>",       "mesure1":"green",
+        "mesure2":"green",
+        "mesure3":"green"
+     },
+     {
+        "code":"90",
+        "statut":"green",
+        "nom_departement":"Territoire de Belfort",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Territoire de Belfort <br><span class='titreinfosdep'>Responsables :</span> <br>Héloïse SQUELBUT<br>Théophile LEVESQUE<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span>06 08 99 80 44<br>06 82 47 54 47<br> <span class='titreinfosdep'>Mails :</span><br>coordination.nord-est@justicerestaurative.org<br>assistant.coordination.nord-est@justicerestaurative.org<br>",       "mesure1":"green",
+        "mesure2":"green",
+        "mesure3":"orange"
+     },
+     {
+        "code":"91",
+        "statut":"orange",
+        "nom_departement":"Essonne ",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Essonne<br><span class='titreinfosdep'>Responsables :</span><br> Non défini<br>Non défini<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>00 00 00 00 00<br>00 00 00 00 00<br> <span class='titreinfosdep'>Mails :</span><br>contact@justicerestaurative.org <br>",       "mesure1":"green",
+        "mesure2":"green",
+        "mesure3":"green"
+     },
+     {
+        "code":"92",
+        "statut":"red",
+        "nom_departement":"Hauts de Seine",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Hauts de Seine <br><span class='titreinfosdep'>Responsables :</span> <br>Héloïse SQUELBUT<br>Théophile LEVESQUE<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span>06 08 99 80 44<br>06 82 47 54 47<br> <span class='titreinfosdep'>Mails :</span><br>coordination.nord-est@justicerestaurative.org<br>assistant.coordination.nord-est@justicerestaurative.org<br>",       "mesure1":"orange",
+        "mesure2":"green",
+        "mesure3":"green"
+     },
+     {
+        "code":"93",
+        "statut":"green",
+        "nom_departement":"Seine Saint Denis ",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Seine Saint Denis <br><span class='titreinfosdep'>Responsables :</span> <br>Héloïse SQUELBUT<br>Théophile LEVESQUE<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span>06 08 99 80 44<br>06 82 47 54 47<br> <span class='titreinfosdep'>Mails :</span><br>coordination.nord-est@justicerestaurative.org<br>assistant.coordination.nord-est@justicerestaurative.org<br>",       "mesure1":"green",
+        "mesure2":"red",
+        "mesure3":"green"
+     },
+     {
+        "code":"94",
+        "statut":"orange",
+        "nom_departement":"Val de Marne ",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Val de Marne <br><span class='titreinfosdep'>Responsables :</span> <br>Héloïse SQUELBUT<br>Théophile LEVESQUE<br><span class='titreinfosdep'>T\u00e9l\u00e9phones :</span>06 08 99 80 44<br>06 82 47 54 47<br> <span class='titreinfosdep'>Mails :</span><br>coordination.nord-est@justicerestaurative.org<br>assistant.coordination.nord-est@justicerestaurative.org<br>",       "mesure1":"green",
+        "mesure2":"green",
+        "mesure3":"green"
+     },
+     {
+        "code":"95",
+        "statut":"green",
+        "nom_departement":"Val d'Oise",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br></span> Val d'Oise<br><span class='titreinfosdep'>Responsables :</span><br> Non défini<br>Non défini<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :</span><br>00 00 00 00 00<br>00 00 00 00 00<br> <span class='titreinfosdep'>Mails :</span><br>contact@justicerestaurative.org <br>",       "mesure1":"green",
+        "mesure2":"green",
+        "mesure3":"orange"
+     },
+     {
+        "code":"974",
+        "statut":"red",
+        "nom_departement":"La R\u00e9union",
+        "contact":"<span class='titreinfosdep'>D\u00e9partement :<br><\/span> La R\u00e9union<br><span class='titreinfosdep'>Responsables :<\/span><br> Océane LABURRE<br>Émilie LE PORT<br> <span class='titreinfosdep'>T\u00e9l\u00e9phones :<\/span><br>0693 802 803<br>0693 855 311<br> <span class='titreinfosdep'>Mails :<\/span><br>coordination.réunion@justicerestaurative.org<br>coordination.réunion-mineurs@justicerestaurative.org<br>",
+        "mesure1":"green",
+        "mesure2":"green",
+        "mesure3":"orange"
+     }
+ ]
