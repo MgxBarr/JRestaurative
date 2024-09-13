@@ -1,5 +1,5 @@
 # Justice Restaurative 
-## Projet Web P2 S2
+## Project Web P2 S2
 
 Web pages developed for the French Institute of Restorative Justice website. 
 
