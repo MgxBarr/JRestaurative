@@ -1,33 +1,33 @@
 # Justice Restaurative 
 ## Projet Web P2 S2
 
-Pages web développées pour le site de l'institut français de la justice restaurative. 
+Web pages developed for the French Institute of Restorative Justice website. 
 
-L'une dédiée aux particuliers pour qu'ils puissent trouver les informations essentielles sur la justice restaurative
-et avoir les coordonnéese de la personne dédiée sur leur département. Pour cela, il y a une carte de la France cliquable et divisée selon les départements,
-une barre de recherche et un outil de filtrage selon différentes mesures. Lors d'un clic sur la carte ou d'une recherche dans la barre dédiée, les informations 
-des personnes à contacter s'affichent ainsi que les disponibilités des mesures/programmes. 
+One dedicated to individuals, so that they can find essential information on restorative justice
+and find the contact details of the dedicated person in their department. For this, there's a clickable map of France, divided by department,
+a search bar and a filtering tool for different measures. When you click on the map or search in the dedicated bar, the contact informations 
+are displayed, as well as the availability of measures/programs. 
 
-L'autre est un espace de formation qui contient notamment un catalogue des formations et une page par formation. 
-Ces dernières contiennent des informations, précisions, mais aussi les dates et villes de déroulement ainsi qu'un formulaire de contact. 
+The other is a training area containing a training catalog and a page for each course. 
+The latter contain information and details, as well as course dates and cities, and a contact form. 
 
-Vous pouvez également vous connecter en tant qu'admin, alors, la majeure partie du contenu devient modifiable. 
-Vous pouvez aussi modifier la disponibilité d'une mesure sur la carte ou encore ajouter des formations et des dates. 
+You can also log in as admin, in which case most of the content becomes editable. 
+You can also modify the availability of a measure on the map, or add training courses and dates. 
 
-# Utilisation 
+# Use
 
-- téléchargez l'archive
-- extraire l'archive
-- ouvrez l'emplacement du dossier dans un terminal
-- tapez la ligne suivante : php -S localhost:8080 
-- ouvrez votre navigateur favori (CHROME)
+- download archive
+- extract archive
+- open the folder location in a command prompt
+- type the following line: php -S localhost:8080 
+- open your favorite browser (CHROME)
 
-Pour se rendre sur le site en tant qu'utilisateur : 
-- tapez la ligne suivante : http://localhost:8080/ljr.php (pour accéder à la page d'informations)
-- ou bien tapez la ligne suivante : http://localhost:8080/la-formation.php (pour accéder au catalogue de formations, les pages de chacunes des formations sont accessibles depuis celle-ci)
+To access the website as a user : 
+- type the following line: http://localhost:8080/ljr.php (to access the information page)
+- or enter the following line: http://localhost:8080/la-formation.php (to access the training catalog, from which you can access the pages for each course)
 
-Pour se rendre sur le site en tant qu'administrateur : 
-- tapez la ligne suivante : http://localhost:8080/admin/connexion.php (pour accéder à la page de connexion)
-- connectez vous avec le login : admin et le mot de passe : admin
-- une fois sur le menu, choisissez la page qui vous intéresse 
-- déconnectez-vous pour voir le site tel un utilisateur
+To access the website as an admin : 
+- type the following line: http://localhost:8080/admin/connexion.php (to access the login page)
+- log in with login: admin and password: admin
+- once on the menu, choose the page you are interested in 
+- log out to view the website as a user
